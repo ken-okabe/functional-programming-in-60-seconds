@@ -7,7 +7,8 @@ What is  **Functional Programming** ? It's a programming paradigm that uses **Ex
 In contrast,  **Imperative Programming**  is a paradigm that uses  **Statements**  to control the flow of the code.
 
 <video controls muted=false
-  src="https://gist.github.com/assets/1316994/39a55e67-a4a8-4e88-a6fb-1700609be09a" type="video/mp4">
+  src="https://gist.github.com/assets/1316994/62fdebe6-7fdf-49fb-a880-e9c80b461e5c
+" type="video/mp4">
 </video>
 
 Both programming paradigms have expressions and statements, but in Functional Programming, expressions are primarily used to compose other expressions, while in Imperative Programming, statements are primarily used to control the flow of execution.
@@ -15,7 +16,7 @@ Both programming paradigms have expressions and statements, but in Functional Pr
 # 💡 How does Functional Code Drive?
 
 <video controls muted=false
-  src="https://gist.github.com/assets/1316994/18c31c0c-0727-4863-8780-a750eec7c7f8" type="video/mp4">
+  src="https://gist.github.com/assets/1316994/7b2ef060-1fa6-47d8-912c-772ff317a9aa" type="video/mp4">
 </video>
 
 This insight is widely shared, and many people today may know what Functional Programming is.
@@ -51,14 +52,14 @@ $1 + 2+ 3$
 
 ---
 
-### Functions
-
 $double (1 + 2 + 3)$
+
+### Functions
 
 ---
 
 <video controls muted=false
-  src="https://gist.github.com/assets/1316994/ef76c242-9487-48ef-945a-f3fae1301354" type="video/mp4">
+  src="https://gist.github.com/assets/1316994/d57a4908-f6ec-43ad-9c2b-0b1ab2ad15d4" type="video/mp4">
 </video>
 
 These elements follow a set of  **associativity** and **precedence rules**  to determine the  **order of evaluation** .
