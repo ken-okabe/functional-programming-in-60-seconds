@@ -14,7 +14,9 @@ Both programming paradigms have expressions and statements, but in Functional Pr
 
 # 💡 How does Functional Code Drive?
 
-https://gist.github.com/assets/1316994/18c31c0c-0727-4863-8780-a750eec7c7f8
+<video controls muted=false
+  src="https://gist.github.com/assets/1316994/18c31c0c-0727-4863-8780-a750eec7c7f8" type="video/mp4">
+</video>
 
 This insight is widely shared, and many people today may know what Functional Programming is.
 
@@ -55,7 +57,9 @@ $double (1 + 2 + 3)$
 
 ---
 
-https://gist.github.com/assets/1316994/ef76c242-9487-48ef-945a-f3fae1301354
+<video controls muted=false
+  src="https://gist.github.com/assets/1316994/ef76c242-9487-48ef-945a-f3fae1301354" type="video/mp4">
+</video>
 
 These elements follow a set of  **associativity** and **precedence rules**  to determine the  **order of evaluation** .
 
