@@ -212,7 +212,7 @@ $$
 \end{align*}
 $$
 
-It essentially determines which calculations are done first in a math problem with multiple operations.
+It essentially determines which calculations are done first in a math problem with  **multiple operations** .
 
 <img width="100%" src="https://raw.githubusercontent.com/ken-okabe/web-images/main/note.svg">
 
