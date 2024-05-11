@@ -31,7 +31,6 @@ In Functional Programming,  **code is a composition of expressions, and the eval
 
 Therefore, statements that control the flow of code, in principle, are not required in Functional Programming.
 
-
 # 💡 What is Expression?
 
 In mathematics and programming, an expression is a combination of  **values**,  **operators**  and  **functions** .
@@ -85,3 +84,18 @@ $$
 Expressions are essential tools for representing calculations and manipulating data in both mathematics and programming.
 
 Their ability to combine values, operators and functions with defined evaluation rules makes them possible  **building blocks for Functional Programming**.
+
+# 💡 What is Binary Operation?
+
+<video controls muted=false
+  src="https://gist.github.com/assets/1316994/f1261018-37d8-4de1-bf17-0d4e87c9e2e6" type="video/mp4">
+</video>
+
+In mathematics, a binary operation is a rule that combines two elements, called operands, to produce another element using an operator.
+
+The most common binary operations are addition, subtraction, multiplication, and division, collectively known as the four basic arithmetic operations.
+
+These combine two numbers to produce a new number.
+
+These operations are widely used in everyday life, throughout mathematics, and in various programming languages.
+
