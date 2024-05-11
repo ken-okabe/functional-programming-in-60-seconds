@@ -95,7 +95,6 @@ In mathematics, a  **binary operation**  is a  **rule that combines two elements
 
 The most common binary operations are  **addition** ,  **subtraction** ,  **multiplication** , and  **division** , collectively known as the  **four basic arithmetic operations** .
 
-
 $1 + 2$
 
 $5 - 3$
@@ -104,9 +103,9 @@ $2 \times 3$
 
 $8 \div 4$
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1712224131411.png)
-
 Here  $+$   $-$   $\times$   $\div$ is called  **binary [operator](https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/symbol-and-operator-reference/)** .
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1712224131411.png)
 
 These combine two numbers to produce a new number.
 
